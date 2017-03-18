@@ -27,7 +27,7 @@
           jQuery(function($) {
               $('#module-video').YTPlayer({
                 fitToBackground: false,
-                videoId: 'jKCyFB5LmPo',
+                videoId: 'jKCyFB5LmPo', 
                 pauseOnScroll: false,
                 playerVars: {
                   modestbranding: 0,
@@ -42,7 +42,7 @@
 
               $('#background-video').YTPlayer({
                 fitToBackground: true,
-                videoId: 'FYP95WJmW3o', 
+                videoId: 'FYP95WJmW3o', // CREDIT: Climbing 1 World Trade Center: Man on Spire | 360 VR Video | The New York Times
                 pauseOnScroll: true,
                 callback: function() {
                   videoCallbackEvents();
