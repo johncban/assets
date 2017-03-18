@@ -21,7 +21,7 @@ body { padding-top: 80px; }
 .movie-tile {
         margin-bottom: 20px;
         padding-top: 20px;
-        color: #D3D3D3;
+        color: "grey";
     }
 
 .movie-tile:hover {
